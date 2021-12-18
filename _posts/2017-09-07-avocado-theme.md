@@ -295,7 +295,7 @@ Do contact us for any help - `hello@webjeda.com`.
 
 ## Buy Avocado Jekyll Theme
 
-{% include buy-button.html %}
+removed button
 
 **We provide 6 months support.**
 

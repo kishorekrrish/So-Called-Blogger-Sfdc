@@ -54,13 +54,14 @@ analytics: G-1TLJQVQ6KF # Sign up with Google analytics and replce with your ana
 
 # Tidio chat script
 # Signup with tidio.com and navigate to https://www.tidio.com/panel/channels/widget/integration to find your chat script
-tidio-chat-script: '<script src="//code.tidio.co/qoqvqizweoapoeohaqshuxfpx6owq0ea.js" async></script>'
+tidio-chat-script: ''
+  #'<script src="//code.tidio.co/qoqvqizweoapoeohaqshuxfpx6owq0ea.js" async></script>'
 
 # Share buttons
 share: yes # Change it to `no` to remove share buttons.
 
 # Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
-disqus: webjeda-demo
+disqus: so-called-blogger
 
 #
 #   ,-----.                                                    ,--.
