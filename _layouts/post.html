@@ -1,5 +1,6 @@
 ---
 layout: default
+layouttype: 'one'
 ---
 <!--                            
 This layout is used for posts. Changing anything here will affect all posts(not pages)
@@ -36,31 +37,17 @@ This layout is used for posts. Changing anything here will affect all posts(not 
         </div>
 
         <div class="row">
-          <div class="col-md-12">
+          
+          {% if page.layouttype == 'one' %}
+              <!-- Single column layout -->
+              {% include post-one-column-layout.html %}
+          {% endif %}
 
-            <article>
-              {% include toc.html html=content class="toc.rev.clearfix" %}
-              {{content}}
-            </article>
-            {% if site.share %}
-            {% include share-buttons.html %}
-            {% endif %}
-
-            {% if page.categories %}
-            {% include categories-post.html %}
-            {% endif %}
-
-
-            {% if page.author %}
-            {% include author.html %}
-            {% endif %}
-
-            {% if site.disqus %}
-            {% include disqus.html %}
-            {% endif %}
-
-            {% include recent.html %}
-          </div>
+          
+          {% if page.layouttype == 'two' %}
+              <!-- Dual column layout -->
+              {% include post-two-column-layout.html %} 
+          {% endif %}
         </div>
       </div>
     </div>

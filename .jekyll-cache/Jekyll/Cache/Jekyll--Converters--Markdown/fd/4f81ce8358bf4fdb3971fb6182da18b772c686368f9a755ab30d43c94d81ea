@@ -1,0 +1,157 @@
+I"K<div class="categories-page">
+
+  <div class="archive-group">
+    
+   <a name="work"></a>    
+    <h3 class="category-head">Work</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/avocado-theme/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/thought-catalog-620865-unsplash.jpg)"></div>
+            <p class="text-center">Avocado Theme</p>
+        </div>
+     </a>
+     </div>
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/do-what-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/julia-caesar-15080-unsplash.jpg)"></div>
+            <p class="text-center">Do what you like!</p>
+        </div>
+     </a>
+     </div>
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/learn-whatever-you-want/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/perfecto-capucine-758998-unsplash.jpg)"></div>
+            <p class="text-center">Learn whatever you want!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+  <div class="archive-group">
+    
+   <a name="projects"></a>    
+    <h3 class="category-head">Projects</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/learn-whatever-you-want/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/perfecto-capucine-758998-unsplash.jpg)"></div>
+            <p class="text-center">Learn whatever you want!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+  <div class="archive-group">
+    
+   <a name="life"></a>    
+    <h3 class="category-head">Life</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/be-what-you-want-to-be/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/beautiful-2150881_1280.jpg)"></div>
+            <p class="text-center">Be what you want to be!</p>
+        </div>
+     </a>
+     </div>
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/love-what-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/round-leaved-bellflower-1576086_1280.jpg)"></div>
+            <p class="text-center">Love whatever you like!</p>
+        </div>
+     </a>
+     </div>
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/do-what-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/julia-caesar-15080-unsplash.jpg)"></div>
+            <p class="text-center">Do what you like!</p>
+        </div>
+     </a>
+     </div>
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/go-wherever-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/ishan-seefromthesky-403804-unsplash.jpg)"></div>
+            <p class="text-center">Go wherever you like!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+  <div class="archive-group">
+    
+   <a name="travel"></a>    
+    <h3 class="category-head">Travel</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/go-wherever-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/ishan-seefromthesky-403804-unsplash.jpg)"></div>
+            <p class="text-center">Go wherever you like!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+  <div class="archive-group">
+    
+   <a name="adventure"></a>    
+    <h3 class="category-head">Adventure</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/love-what-you-like/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/round-leaved-bellflower-1576086_1280.jpg)"></div>
+            <p class="text-center">Love whatever you like!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+  <div class="archive-group">
+    
+   <a name="experience"></a>    
+    <h3 class="category-head">Experience</h3>
+        <div class="row">
+    
+    <div class="col-md-4">
+     <a class="nostyle" href="/blog/be-what-you-want-to-be/">
+       <div class="cards">
+           <div class="image" style="background-image: url(/assets/images/beautiful-2150881_1280.jpg)"></div>
+            <p class="text-center">Be what you want to be!</p>
+        </div>
+     </a>
+     </div>
+    
+     </div>
+  </div>
+
+</div>
+:ET

@@ -1,0 +1,12 @@
+
+# Non-sticky banners
+- name: Non-Sticky Banner 1
+  display: '<img src="http://placehold.jp/f5f2e7/4d4d4d/400x300.png?text=Banner" alt="">'
+  sticky: true
+
+
+# Sticky banners
+- name: Sticky Banner 1
+  display: '<img src="http://placehold.jp/f5f2e7/4d4d4d/400x300.png?text=Banner" alt="">'
+  sticky: false
+

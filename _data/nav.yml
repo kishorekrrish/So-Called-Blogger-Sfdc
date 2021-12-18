@@ -9,6 +9,15 @@
   
 - title: Blog
   link: '/blog/'
+
+- title: Blogs
+  dropdown:
+    - title: Salesforce
+      link: '/salesforce/'
+    - title: JavaScript
+      link: '/blog/'
+    - title: Heroku
+      link: '/blog/'
   
 - title: Categories
   link: '/categories/'

@@ -7,6 +7,7 @@ author: john
 categories:
   - work
 layout: post
+layouttype: two
 ---
 
 Bored of the same old website designs? [Avocado theme]({{site.baseurl}}/) presents a unique way to show off your skills on the web.

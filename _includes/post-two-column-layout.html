@@ -1,0 +1,27 @@
+<div class="col-md-8">
+
+    <article>
+      {% include toc.html html=content class="toc.rev.clearfix" %}
+      {{content}}
+    </article>
+    {% if site.share %}
+    {% include share-buttons.html %}
+    {% endif %}
+
+    {% if page.categories %}
+    {% include categories-post.html %}
+    {% endif %}
+
+
+    {% if page.author %}
+    {% include author.html %}
+    {% endif %}
+
+    {% if site.disqus %}
+    {% include disqus.html %}
+    {% endif %}
+
+    {% include recent.html %}
+  </div>
+  <!-- Sidebar -->
+  {% include sidebar.html %}
